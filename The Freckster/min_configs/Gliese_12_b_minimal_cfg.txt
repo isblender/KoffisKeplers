@@ -1,0 +1,2 @@
+<OBJECT>Exoplanet
+<OBJECT-NAME>Gliese 12 b

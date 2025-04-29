@@ -1,0 +1,2 @@
+<OBJECT>Exoplanet
+<OBJECT-NAME>K2-166 b

@@ -1,0 +1,2 @@
+<OBJECT>Exoplanet
+<OBJECT-NAME>CoRoT-26 b

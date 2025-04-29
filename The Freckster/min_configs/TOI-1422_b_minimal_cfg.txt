@@ -1,0 +1,2 @@
+<OBJECT>Exoplanet
+<OBJECT-NAME>TOI-1422 b

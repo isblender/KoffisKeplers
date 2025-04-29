@@ -1,0 +1,2 @@
+<OBJECT>Exoplanet
+<OBJECT-NAME>KPS-1 b

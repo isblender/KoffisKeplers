@@ -1,0 +1,2 @@
+<OBJECT>Exoplanet
+<OBJECT-NAME>GJ 160.2 b

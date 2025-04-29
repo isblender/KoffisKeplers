@@ -1,0 +1,2 @@
+<OBJECT>Exoplanet
+<OBJECT-NAME>HD 40979 b

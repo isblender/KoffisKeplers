@@ -1,0 +1,2 @@
+<OBJECT>Exoplanet
+<OBJECT-NAME>KELT-15 b

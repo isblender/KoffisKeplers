@@ -1,0 +1,2 @@
+<OBJECT>Exoplanet
+<OBJECT-NAME>MOA-bin-29 b

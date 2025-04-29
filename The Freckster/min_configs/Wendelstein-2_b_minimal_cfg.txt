@@ -1,0 +1,2 @@
+<OBJECT>Exoplanet
+<OBJECT-NAME>Wendelstein-2 b

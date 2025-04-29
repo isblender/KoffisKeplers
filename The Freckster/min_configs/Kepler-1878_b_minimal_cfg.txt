@@ -1,0 +1,2 @@
+<OBJECT>Exoplanet
+<OBJECT-NAME>Kepler-1878 b

@@ -1,0 +1,2 @@
+<OBJECT>Exoplanet
+<OBJECT-NAME>SPECULOOS-3 b

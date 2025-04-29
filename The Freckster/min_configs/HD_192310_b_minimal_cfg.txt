@@ -1,0 +1,2 @@
+<OBJECT>Exoplanet
+<OBJECT-NAME>HD 192310 b

@@ -1,0 +1,2 @@
+<OBJECT>Exoplanet
+<OBJECT-NAME>HATS-39 b

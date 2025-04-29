@@ -1,0 +1,2 @@
+<OBJECT>Exoplanet
+<OBJECT-NAME>LHS 3844 b

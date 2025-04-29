@@ -1,0 +1,2 @@
+<OBJECT>Exoplanet
+<OBJECT-NAME>HIP 66074 b
